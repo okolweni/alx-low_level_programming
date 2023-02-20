@@ -3,11 +3,12 @@
 #include <stdio.h>
 
 /**
- * main - Assign arandom number to the variable n each time it is executed.
+ * main - Entry point
+ * Assign arandom number to the variable n each time it is executed.
  * if the last digit of n > 5 : and is greater than 5
  * if the last digit of n = 0 : and is 0
  * if the last digit of n < 5 : and is less than 6 and not 0
- * Return 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
