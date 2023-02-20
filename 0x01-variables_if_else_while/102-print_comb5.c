@@ -7,7 +7,7 @@
  *
  * discription - prints all possible combinations of 2 2-digit numbers.
  *
- * Result: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
