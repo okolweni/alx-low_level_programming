@@ -1,14 +1,17 @@
 #include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
 
 /**
  * Main - Entry point
- * Discription - prints the alphabet in lowercase,
- * followed by a new line.
+ *
+ * Discription: 'prints the alphabet in lowercase,
+ * followed by a new line.'
  *
  * Return: Always 0 (Success)
  */
 
-int main(void)
+main(void)
 {
 	char alphabet;
 
