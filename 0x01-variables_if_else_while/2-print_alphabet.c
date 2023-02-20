@@ -11,7 +11,8 @@
  * Return: Always 0 (Success)
  */
 
-main(void)
+int main(void)
+
 {
 	char alphabet;
 
