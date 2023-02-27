@@ -1,12 +1,11 @@
 #include <stdio.h>
-#include "main.h"
 
 /**
  * _strlen - function that returns the length of a string
  *
  * @str: string length to be calculated
  *
- * Return: length of @str
+ * Return: length of @str.
  */
 
 size_t _strlen(const char *str)
