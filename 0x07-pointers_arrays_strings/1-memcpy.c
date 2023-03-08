@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _mempcy - Entry point
+ * _memcpy - Entry point
  *
- * Description - function that copies memory area.
+ * Description: function that copies memory area.
  * @dest: pointer to the destination
  * @src: pointer to the source.
  * @n: number of characters to copy
@@ -15,7 +15,7 @@ char *_memcpy(char *dest, char *src, unsigned int n)
 {
 	unsigned int i;
 
-	for (i = 0; i < n : i++)
+	for (i = 0; i < n ; i++)
 		dest[i] = src[i];
 
 	return (dest);
